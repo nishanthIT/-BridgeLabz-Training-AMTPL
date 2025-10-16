@@ -1,0 +1,15 @@
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\bin\Debug\net6.0\BridgeLabsTraining.exe
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\bin\Debug\net6.0\BridgeLabsTraining.deps.json
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\bin\Debug\net6.0\BridgeLabsTraining.runtimeconfig.json
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\bin\Debug\net6.0\BridgeLabsTraining.dll
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\bin\Debug\net6.0\BridgeLabsTraining.pdb
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.AssemblyInfoInputs.cache
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.AssemblyInfo.cs
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.csproj.CoreCompileInputs.cache
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.sourcelink.json
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.dll
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\refint\BridgeLabsTraining.dll
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.pdb
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\BridgeLabsTraining.genruntimeconfig.cache
+C:\Users\anish\N1sh\BridgeLabz-Training-AMTPL\BridgeLabsTraining\obj\Debug\net6.0\ref\BridgeLabsTraining.dll
